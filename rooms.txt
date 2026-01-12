@@ -1,5 +1,12 @@
 101,Standard,2000.0,true
 102,Standard,2000.0,true
+103,Standard,2000.0,true
+104,Standard,2000.0,true
+105,Standard,2000.0,true
 201,Deluxe,3500.0,true
 202,Deluxe,3500.0,true
+203,Deluxe,3500.0,true
+204,Deluxe,3500.0,true
+205,Deluxe,3500.0,true
 301,Suite,6000.0,false
+302,Suite,6000.0,true
